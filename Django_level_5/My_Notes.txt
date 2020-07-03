@@ -1,0 +1,4 @@
+1. learned how to select different algorithm for password and set up in settings.py file
+
+FYI if we working with images remember to install pillow libery install, in termanal > pip install pillow
+  
